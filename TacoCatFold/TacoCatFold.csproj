@@ -113,6 +113,7 @@
     <Content Include="assets\php\MailChimp.php" />
     <Content Include="assets\php\subscribe.php" />
     <Content Include="Code.html" />
+    <Content Include="index-2.html" />
     <Content Include="index.html" />
     <Content Include="index-3.html" />
     <Content Include="index4.html" />
